@@ -1,0 +1,8 @@
+# 준비 자료만 관리한다. 시험 작업물은 이 저장소에 저장하지 않는다.
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+node_modules/
+.DS_Store

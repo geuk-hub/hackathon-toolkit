@@ -1,0 +1,4 @@
+interface:
+  display_name: "검증과 제출 준비"
+  short_description: "요구사항별 검증 근거와 재현 문서 및 제출 파일 누락 점검"
+  default_prompt: "$hackathon-deliver을 사용해 현재 과제의 해당 단계를 수행해줘."
